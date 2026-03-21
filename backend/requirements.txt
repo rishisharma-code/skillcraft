@@ -1,0 +1,10 @@
+flask
+opencv-python
+numpy
+pandas
+librosa
+scikit-learn
+tensorflow
+matplotlib
+soundfile
+joblib
